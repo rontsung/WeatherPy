@@ -1,6 +1,6 @@
 
 # Temperature increases for locations closer to the equator and decreases closer to the poles, as expected.
-# There are more locations of lower humidity farther from the equator than nearer (no registered value of lower than 40% near the equator), and a greater concentration of locations with higher humidity near the equator.
+# There are more locations of lower humidity farther from the equator than nearer (no registered value of lower than 40% near the equator), and a greater percentage of locations with higher humidity near the equator.
 # Cloudiness values are well distributed near the equator, but less so away - there are several more locations of low cloudiness outside of the -20 to 20 latitude range.
 
 
